@@ -73,7 +73,23 @@
         "cost": 1299,
         "borrowed": false
       }
-    ]
-
-
+    ],
+    "twitteruser": [
+      {
+        "id": 1,
+        "image": "https://i.pravatar.cc/150?img=45",
+        "fullname": "Abdul",
+        "email": "arub0419@gmail.com",
+        "password": "123"
+      }
+    ],
+    "twitterposts": [{
+      "id":1,
+      "comment":"Twinkle Twinkle Little Star",
+      "gif":"https://i.pinimg.com/originals/ac/31/e9/ac31e9ff353d7454c4c9c5f03fbdfcf5.gif"
+    }]
+  
   }
+
+
+   
